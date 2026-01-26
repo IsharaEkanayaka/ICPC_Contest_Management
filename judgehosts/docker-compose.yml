@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  judgehost-0:
+    image: domjudge/judgehost:latest
+    container_name: judgehost-0
+    hostname: judgedaemon-0rea
+    privileged: true
+    volumes:
+      - /sys/fs/cgroup:/sys/fs/cgroup:ro
+    environment:
+      - CONTAINER_TIMEZONE=Asia/Colombo
+      - DOMSERVER_BASEURL=http://YOUR_DOMSERVER_IP/
+      - JUDGEDAEMON_USERNAME=judgehost
+      - JUDGEDAEMON_PASSWORD=your_password_here
+      - DAEMON_ID=0
+      - DOMJUDGE_CREATE_WRITABLE_TEMP_DIR=0
+      - RUN_USER_UID_GID=62860
+    restart: unless-stopped
+
+  judgehost-1:
+    image: domjudge/judgehost:latest
+    container_name: judgehost-1
+    hostname: judgedaemon-1
+    privileged: true
+    volumes:
+      - /sys/fs/cgroup:/sys/fs/cgroup:ro
+    environment:
+      - CONTAINER_TIMEZONE=Asia/Colombo
+      - DOMSERVER_BASEURL=http://YOUR_DOMSERVER_IP/
+      - JUDGEDAEMON_USERNAME=judgehost
+      - JUDGEDAEMON_PASSWORD=your_password_here
+      - DAEMON_ID=1
+      - DOMJUDGE_CREATE_WRITABLE_TEMP_DIR=0
+      - RUN_USER_UID_GID=62860
+    restart: unless-stopped

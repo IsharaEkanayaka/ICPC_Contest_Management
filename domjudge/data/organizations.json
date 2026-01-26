@@ -1,0 +1,62 @@
+[
+    {
+        "id": "2",
+        "name": "UOP",
+        "formal_name": "University of Peradeniya",
+        "country": "LKA"
+    },
+    {
+        "id": "3",
+        "name": "UOM",
+        "formal_name": "University of Moratuwa",
+        "country": "LKA"
+    },
+    {
+        "id": "4",
+        "name": "EWU",
+        "formal_name": "East West University",
+        "country": "BGD"
+    },
+    {
+        "id": "5",
+        "name": "UOV",
+        "formal_name": "University of Vavuniya",
+        "country": "LKA"
+    },
+    {
+        "id": "6",
+        "name": "SLIIT",
+        "formal_name": "SLIIT",
+        "country": "LKA"
+    },
+    {
+        "id": "7",
+        "name": "IITKGP",
+        "formal_name": "Indian Institute of Technology Kharagpur",
+        "country": "IND"
+    },
+    {
+        "id": "8",
+        "name": "UOC",
+        "formal_name": "University of Colombo",
+        "country": "LKA"
+    },
+    {
+        "id": "9",
+        "name": "WUSL",
+        "formal_name": "Wayamba University",
+        "country": "LKA"
+    },
+    {
+        "id": "10",
+        "name": "UOK",
+        "formal_name": "University of Kelaniya",
+        "country": "LKA"
+    },
+    {
+        "id": "11",
+        "name": "OUSL",
+        "formal_name": "Open University of Sri Lanka",
+        "country": "LKA"
+    }
+]

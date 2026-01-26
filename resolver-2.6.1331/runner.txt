@@ -1,0 +1,1 @@
+resolver.bat https://localhost:8443/api/contests/4 admin admin

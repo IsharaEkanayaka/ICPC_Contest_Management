@@ -1,0 +1,18 @@
+# Log files
+logs/
+*.log
+
+# DOMjudge sensitive data and backups
+domjudge/admin_password.txt
+domjudge/*.tar
+domjudge/*.tar.gz
+domjudge/*.sql
+
+# CDS generated data
+cds/data/
+
+# Accounts file
+cds/accounts.yaml
+
+# Presentation users file
+presentations-2.6.1331/users.xml

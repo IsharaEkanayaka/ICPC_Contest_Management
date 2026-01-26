@@ -1,0 +1,7 @@
+<cds>
+    <contest path="/data">
+        <ccs url="http://domserver/api/contests/9" 
+             user="admin" 
+             password="aVKkNytMlbITE_8-"/>
+    </contest>
+</cds>

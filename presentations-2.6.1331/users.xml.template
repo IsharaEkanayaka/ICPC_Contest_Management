@@ -1,0 +1,6 @@
+<server>
+	<basicRegistry id="basic" realm="BasicRealm">
+		<user name="admin" password="admin" roles="admin, presentation"/>
+		<user name="display" password="display" roles="public"/>
+	</basicRegistry>
+</server>

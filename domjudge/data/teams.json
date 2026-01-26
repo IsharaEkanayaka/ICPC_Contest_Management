@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "label": "ICPCSLG004",
+    "group_ids": ["3"],
+    "name": "AfterShock",
+    "organization_id": "4"
+  },
+  {
+    "id": "2",
+    "label": "ICPCSLG013",
+    "group_ids": ["3"],
+    "name": "Binary Titans",
+    "organization_id": "5"
+  },
+  {
+    "id": "3",
+    "label": "ICPCSLG020",
+    "group_ids": ["3"],
+    "name": "Ceymoss",
+    "organization_id": "6"
+  },
+  {
+    "id": "4",
+    "label": "ICPCSLG026",
+    "group_ids": ["3"],
+    "name": "Vizhaiyor",
+    "organization_id": "2"
+  },
+  {
+    "id": "5",
+    "label": "ICPCSLG028",
+    "group_ids": ["3"],
+    "name": "Velosphere",
+    "organization_id": "3"
+  },
+  {
+    "id": "6",
+    "label": "ICPCSLG031",
+    "group_ids": ["3"],
+    "name": "DevSync",
+    "organization_id": "6"
+  },
+  {
+    "id": "7",
+    "label": "ICPCSLG032",
+    "group_ids": ["3"],
+    "name": "Vanguard",
+    "organization_id": "2"
+  },
+  {
+    "id": "8",
+    "label": "ICPCSLG037",
+    "group_ids": ["3"],
+    "name": "TLEMora",
+    "organization_id": "3"
+  },
+  {
+    "id": "9",
+    "label": "ICPCSLG038",
+    "group_ids": ["3"],
+    "name": "TechnoLogic",
+    "organization_id": "7"
+  },
+  {
+    "id": "10",
+    "label": "ICPCSLG041",
+    "group_ids": ["3"],
+    "name": "HelloWorld",
+    "organization_id": "8"
+  },
+  {
+    "id": "11",
+    "label": "ICPCSLG042",
+    "group_ids": ["3"],
+    "name": "Infinite_coders",
+    "organization_id": "2"
+  },
+  {
+    "id": "12",
+    "label": "ICPCSLG046",
+    "group_ids": ["3"],
+    "name": "LastMinuteLazies",
+    "organization_id": "2"
+  },
+  {
+    "id": "13",
+    "label": "ICPCSLG047",
+    "group_ids": ["3"],
+    "name": "Logic Legion 1.0",
+    "organization_id": "6"
+  },
+  {
+    "id": "14",
+    "label": "ICPCSLG050",
+    "group_ids": ["3"],
+    "name": "Nasakarar",
+    "organization_id": "2"
+  },
+  {
+    "id": "15",
+    "label": "ICPCSLG054",
+    "group_ids": ["3"],
+    "name": "Team Axion",
+    "organization_id": "9"
+  },
+  {
+    "id": "16",
+    "label": "ICPCSLG055",
+    "group_ids": ["3"],
+    "name": "NovaCore",
+    "organization_id": "2"
+  },
+  {
+    "id": "17",
+    "label": "ICPCSLG060",
+    "group_ids": ["3"],
+    "name": "Syntax09",
+    "organization_id": "2"
+  },
+  {
+    "id": "18",
+    "label": "ICPCSLG066",
+    "group_ids": ["3"],
+    "name": "RePeaTers",
+    "organization_id": "10"
+  },
+  {
+    "id": "19",
+    "label": "ICPCSLG072",
+    "group_ids": ["3"],
+    "name": "Stackstorm",
+    "organization_id": "2"
+  },
+  {
+    "id": "20",
+    "label": "ICPCSLG073",
+    "group_ids": ["3"],
+    "name": "Syntax Warriors",
+    "organization_id": "6"
+  },
+  {
+    "id": "21",
+    "label": "ICPCSLG075",
+    "group_ids": ["3"],
+    "name": "Team Xcode",
+    "organization_id": "11"
+  },
+  {
+    "id": "22",
+    "label": "ICPCSLG078",
+    "group_ids": ["3"],
+    "name": "Team Glory",
+    "organization_id": "6"
+  }
+]

@@ -1,0 +1,6 @@
+docker run --name cds --rm -it ^
+-p 8080:8080 -p 8443:8443 ^
+-v %cd%\cdsConfig.xml:/opt/wlp/usr/servers/cds/config/cdsConfig.xml ^
+-v %cd%\accounts.yaml:/opt/wlp/usr/servers/cds/config/accounts.yaml ^
+-v %cd%\data:/data ^
+ghcr.io/icpctools/cds:2.7.1346

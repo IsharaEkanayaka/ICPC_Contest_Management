@@ -1,0 +1,88 @@
+{"token":"157","id":null,"type":"contest","data":{"formal_name":"ICPC Sri Lanka Test","scoreboard_type":"pass-fail","start_time":"2026-01-19T16:53:00+05:30","end_time":"2026-01-19T16:58:00+05:30","scoreboard_thaw_time":null,"duration":"0:05:00.000","scoreboard_freeze_duration":"0:02:00.000","id":"4","external_id":null,"name":"ICPC Sri Lanka Test","shortname":"ICPCSL","allow_submit":true,"runtime_as_score_tiebreaker":false,"warning_message":null,"penalty_time":20},"time":"2026-01-19T16:52:16.789+05:30"}
+{"token":"158","id":"AC","type":"judgement-types","data":{"id":"AC","name":"correct","penalty":false,"solved":true},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"159","id":"CE","type":"judgement-types","data":{"id":"CE","name":"compiler error","penalty":false,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"160","id":"MLE","type":"judgement-types","data":{"id":"MLE","name":"memory limit","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"161","id":"NO","type":"judgement-types","data":{"id":"NO","name":"no output","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"162","id":"OLE","type":"judgement-types","data":{"id":"OLE","name":"output limit","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"163","id":"RTE","type":"judgement-types","data":{"id":"RTE","name":"run error","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"164","id":"TLE","type":"judgement-types","data":{"id":"TLE","name":"timelimit","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"165","id":"WA","type":"judgement-types","data":{"id":"WA","name":"wrong answer","penalty":true,"solved":false},"time":"2026-01-19T16:52:16.929+05:30"}
+{"token":"166","id":"c","type":"languages","data":{"compile_executable_hash":"ac6b2c3be82211958c91cde21f27fd26","compiler":{"version_command":"gcc --version"},"id":"c","name":"C","extensions":["c"],"filter_compiler_files":true,"allow_judge":true,"time_factor":1.0,"entry_point_required":false,"entry_point_name":null},"time":"2026-01-19T16:52:17.159+05:30"}
+{"token":"167","id":"cpp","type":"languages","data":{"compile_executable_hash":"62531e780378bb346939d18aacdfff1c","compiler":{"version_command":"g++ --version"},"id":"cpp","name":"C++","extensions":["cpp","cc","cxx","c++"],"filter_compiler_files":true,"allow_judge":true,"time_factor":1.0,"entry_point_required":false,"entry_point_name":null},"time":"2026-01-19T16:52:17.159+05:30"}
+{"token":"168","id":"java","type":"languages","data":{"compile_executable_hash":"86ba56cb70a79a32c0382214beda8faa","compiler":{"version_command":"javac -version"},"runner":{"version_command":"java -version"},"id":"java","name":"Java","extensions":["java"],"filter_compiler_files":true,"allow_judge":true,"time_factor":1.0,"entry_point_required":false,"entry_point_name":"Main class"},"time":"2026-01-19T16:52:17.159+05:30"}
+{"token":"169","id":"python3","type":"languages","data":{"compile_executable_hash":"4e301e4bc46ab73673e209ee3437707d","compiler":{"version_command":"pypy3 --version"},"runner":{"version_command":"pypy3 --version"},"id":"python3","name":"Python 3","extensions":["py"],"filter_compiler_files":true,"allow_judge":true,"time_factor":1.0,"entry_point_required":false,"entry_point_name":"Main file"},"time":"2026-01-19T16:52:17.159+05:30"}
+{"token":"170","id":"1","type":"problems","data":{"ordinal":0,"id":"1","short_name":"A","rgb":null,"color":null,"label":"A","time_limit":5.0,"statement":[{"href":"contests/4/problems/1/statement","mime":"application/pdf","filename":"A.pdf"}],"externalid":"hello","name":"Hello World","test_data_count":1},"time":"2026-01-19T16:52:17.917+05:30"}
+{"token":"171","id":"2","type":"problems","data":{"ordinal":1,"id":"2","short_name":"B","rgb":null,"color":null,"label":"B","time_limit":5.0,"statement":[{"href":"contests/4/problems/2/statement","mime":"application/pdf","filename":"B.pdf"}],"externalid":"fltcmp","name":"Float special compare test","test_data_count":4},"time":"2026-01-19T16:52:17.917+05:30"}
+{"token":"172","id":"1","type":"groups","data":{"hidden":true,"id":"1","icpc_id":null,"name":"System","sortorder":9,"color":"#ff2bea","allow_self_registration":false},"time":"2026-01-19T16:52:17.940+05:30"}
+{"token":"173","id":"2","type":"groups","data":{"hidden":false,"id":"2","icpc_id":null,"name":"Self-Registered","sortorder":8,"color":"#33cc44","allow_self_registration":false},"time":"2026-01-19T16:52:17.940+05:30"}
+{"token":"174","id":"3","type":"groups","data":{"hidden":false,"id":"3","icpc_id":null,"name":"Participants","sortorder":0,"color":null,"allow_self_registration":false},"time":"2026-01-19T16:52:17.940+05:30"}
+{"token":"175","id":"4","type":"groups","data":{"hidden":false,"id":"4","icpc_id":null,"name":"Observers","sortorder":1,"color":"#ffcc33","allow_self_registration":false},"time":"2026-01-19T16:52:17.940+05:30"}
+{"token":"176","id":"5","type":"groups","data":{"hidden":true,"id":"5","icpc_id":null,"name":"Organisation","sortorder":1,"color":"#ff99cc","allow_self_registration":false},"time":"2026-01-19T16:52:17.940+05:30"}
+{"token":"177","id":"1","type":"organizations","data":{"shortname":"UU","id":"1","icpc_id":null,"name":"UU","formal_name":"Utrecht University","country":"NLD","country_flag":[{"href":"country-flags/NLD/4x3","mime":"image/svg+xml","filename":"country-flag-4x3.svg","width":640,"height":480},{"href":"country-flags/NLD/1x1","mime":"image/svg+xml","filename":"country-flag-1x1.svg","width":512,"height":512}]},"time":"2026-01-19T16:52:18.002+05:30"}
+{"token":"178","id":"2","type":"organizations","data":{"shortname":"UOP","id":"2","icpc_id":null,"name":"UOP","formal_name":"University of Peradeniya","country":"LKA","country_flag":[{"href":"country-flags/LKA/4x3","mime":"image/svg+xml","filename":"country-flag-4x3.svg","width":640,"height":480},{"href":"country-flags/LKA/1x1","mime":"image/svg+xml","filename":"country-flag-1x1.svg","width":512,"height":512}]},"time":"2026-01-19T16:52:18.002+05:30"}
+{"token":"179","id":"3","type":"organizations","data":{"shortname":"UOM","id":"3","icpc_id":null,"name":"UOM","formal_name":"University of Moratuwa","country":"LKA","country_flag":[{"href":"country-flags/LKA/4x3","mime":"image/svg+xml","filename":"country-flag-4x3.svg","width":640,"height":480},{"href":"country-flags/LKA/1x1","mime":"image/svg+xml","filename":"country-flag-1x1.svg","width":512,"height":512}]},"time":"2026-01-19T16:52:18.002+05:30"}
+{"token":"180","id":"1","type":"teams","data":{"location":null,"organization_id":null,"hidden":true,"group_ids":["1"],"affiliation":null,"nationality":null,"id":"1","icpc_id":null,"label":"domjudge","name":"DOMjudge","display_name":null,"public_description":null},"time":"2026-01-19T16:52:18.051+05:30"}
+{"token":"181","id":"2","type":"teams","data":{"location":null,"organization_id":"1","hidden":false,"group_ids":["3"],"affiliation":"Utrecht University","nationality":"NLD","id":"2","icpc_id":"exteam","label":"exteam","name":"Example teamname","display_name":null,"public_description":null},"time":"2026-01-19T16:52:18.051+05:30"}
+{"token":"182","id":"3","type":"teams","data":{"location":null,"organization_id":null,"hidden":false,"group_ids":["3"],"affiliation":null,"nationality":null,"id":"3","icpc_id":null,"label":"3","name":"Test Team","display_name":null,"public_description":null},"time":"2026-01-19T16:52:18.051+05:30"}
+{"token":"183","id":"4","type":"teams","data":{"location":null,"organization_id":"2","hidden":false,"group_ids":["3"],"affiliation":"University of Peradeniya","nationality":"LKA","id":"4","icpc_id":null,"label":"4","name":"APX","display_name":"APX","public_description":null},"time":"2026-01-19T16:52:18.051+05:30"}
+{"token":"184","id":"5","type":"teams","data":{"location":null,"organization_id":"3","hidden":false,"group_ids":["3"],"affiliation":"University of Moratuwa","nationality":"LKA","id":"5","icpc_id":null,"label":"5","name":"CODEX","display_name":"CODEX","public_description":null},"time":"2026-01-19T16:52:18.051+05:30"}
+{"token":"185","id":null,"type":"contest","data":{"formal_name":"ICPC Sri Lanka Test","scoreboard_type":"pass-fail","start_time":"2026-01-19T16:53:00+05:30","end_time":"2026-01-19T16:58:00+05:30","scoreboard_thaw_time":null,"duration":"0:05:00.000","scoreboard_freeze_duration":"0:02:00.000","id":"4","external_id":null,"name":"ICPC Sri Lanka Test","shortname":"ICPCSL","allow_submit":true,"runtime_as_score_tiebreaker":false,"warning_message":null,"penalty_time":20},"time":"2026-01-19T16:52:16.777+05:30"}
+{"token":"186","id":null,"type":"state","data":{"started":"2026-01-19T16:53:00.000+05:30","ended":null,"frozen":null,"thawed":null,"finalized":null,"end_of_updates":null},"time":"2026-01-19T16:53:27.465+05:30"}
+{"token":"187","id":"8","type":"submissions","data":{"language_id":"python3","time":"2026-01-19T16:53:26.483+05:30","contest_time":"0:00:26.483","team_id":"4","problem_id":"1","files":[{"href":"contests/4/submissions/8/files","mime":"application/zip","filename":"submission.zip"}],"id":"8","external_id":null,"entry_point":null,"import_error":null},"time":"2026-01-19T16:53:27.456+05:30"}
+{"token":"188","id":"8","type":"submissions","data":{"language_id":"python3","time":"2026-01-19T16:53:26.483+05:30","contest_time":"0:00:26.483","team_id":"4","problem_id":"1","files":[{"href":"contests/4/submissions/8/files","mime":"application/zip","filename":"submission.zip"}],"id":"8","external_id":null,"entry_point":"A.py","import_error":null},"time":"2026-01-19T16:53:49.407+05:30"}
+{"token":"189","id":"10","type":"judgements","data":{"max_run_time":null,"start_time":"2026-01-19T16:53:28.159+05:30","start_contest_time":"0:00:28.159","end_time":null,"end_contest_time":null,"submission_id":"8","id":"10","valid":true,"judgement_type_id":null},"time":"2026-01-19T16:53:49.531+05:30"}
+{"token":"190","id":"9","type":"submissions","data":{"language_id":"c","time":"2026-01-19T16:53:54.801+05:30","contest_time":"0:00:54.801","team_id":"5","problem_id":"1","files":[{"href":"contests/4/submissions/9/files","mime":"application/zip","filename":"submission.zip"}],"id":"9","external_id":null,"entry_point":null,"import_error":null},"time":"2026-01-19T16:53:55.134+05:30"}
+{"token":"191","id":"13","type":"runs","data":{"run_time":0.154,"time":"2026-01-19T16:54:01.288+05:30","contest_time":"0:01:01.288","judgement_id":"10","ordinal":1,"id":"13","judgement_type_id":"AC"},"time":"2026-01-19T16:54:01.366+05:30"}
+{"token":"192","id":"10","type":"judgements","data":{"max_run_time":0.154,"start_time":"2026-01-19T16:53:28.159+05:30","start_contest_time":"0:00:28.159","end_time":"2026-01-19T16:54:01.379+05:30","end_contest_time":"0:01:01.379","submission_id":"8","id":"10","valid":true,"judgement_type_id":"AC"},"time":"2026-01-19T16:54:01.807+05:30"}
+{"token":"193","id":"11","type":"judgements","data":{"max_run_time":null,"start_time":"2026-01-19T16:53:55.113+05:30","start_contest_time":"0:00:55.113","end_time":null,"end_contest_time":null,"submission_id":"9","id":"11","valid":true,"judgement_type_id":null},"time":"2026-01-19T16:54:06.206+05:30"}
+{"token":"194","id":"14","type":"runs","data":{"run_time":0.006,"time":"2026-01-19T16:54:07.790+05:30","contest_time":"0:01:07.790","judgement_id":"11","ordinal":1,"id":"14","judgement_type_id":"AC"},"time":"2026-01-19T16:54:07.826+05:30"}
+{"token":"195","id":"11","type":"judgements","data":{"max_run_time":0.006,"start_time":"2026-01-19T16:53:55.113+05:30","start_contest_time":"0:00:55.113","end_time":"2026-01-19T16:54:07.864+05:30","end_contest_time":"0:01:07.864","submission_id":"9","id":"11","valid":true,"judgement_type_id":"AC"},"time":"2026-01-19T16:54:08.207+05:30"}
+{"token":"196","id":null,"type":"state","data":{"started":"2026-01-19T16:53:00.000+05:30","ended":null,"frozen":"2026-01-19T16:56:00.000+05:30","thawed":null,"finalized":null,"end_of_updates":null},"time":"2026-01-19T16:56:20.216+05:30"}
+{"token":"197","id":"10","type":"submissions","data":{"language_id":"c","time":"2026-01-19T16:56:20.024+05:30","contest_time":"0:03:20.024","team_id":"4","problem_id":"2","files":[{"href":"contests/4/submissions/10/files","mime":"application/zip","filename":"submission.zip"}],"id":"10","external_id":null,"entry_point":null,"import_error":null},"time":"2026-01-19T16:56:20.204+05:30"}
+{"token":"198","id":"12","type":"judgements","data":{"max_run_time":null,"start_time":"2026-01-19T16:56:23.209+05:30","start_contest_time":"0:03:23.209","end_time":null,"end_contest_time":null,"submission_id":"10","id":"12","valid":true,"judgement_type_id":null},"time":"2026-01-19T16:56:28.716+05:30"}
+{"token":"199","id":"15","type":"runs","data":{"run_time":0.017,"time":"2026-01-19T16:56:29.847+05:30","contest_time":"0:03:29.847","judgement_id":"12","ordinal":1,"id":"15","judgement_type_id":"AC"},"time":"2026-01-19T16:56:29.871+05:30"}
+{"token":"200","id":"16","type":"runs","data":{"run_time":0.005,"time":"2026-01-19T16:56:30.735+05:30","contest_time":"0:03:30.735","judgement_id":"12","ordinal":2,"id":"16","judgement_type_id":"AC"},"time":"2026-01-19T16:56:30.762+05:30"}
+{"token":"201","id":"17","type":"runs","data":{"run_time":0.005,"time":"2026-01-19T16:56:31.574+05:30","contest_time":"0:03:31.574","judgement_id":"12","ordinal":3,"id":"17","judgement_type_id":"AC"},"time":"2026-01-19T16:56:31.585+05:30"}
+{"token":"202","id":"18","type":"runs","data":{"run_time":0.006,"time":"2026-01-19T16:56:32.531+05:30","contest_time":"0:03:32.530","judgement_id":"12","ordinal":4,"id":"18","judgement_type_id":"AC"},"time":"2026-01-19T16:56:32.545+05:30"}
+{"token":"203","id":"12","type":"judgements","data":{"max_run_time":0.017,"start_time":"2026-01-19T16:56:23.209+05:30","start_contest_time":"0:03:23.209","end_time":"2026-01-19T16:56:32.588+05:30","end_contest_time":"0:03:32.588","submission_id":"10","id":"12","valid":true,"judgement_type_id":"AC"},"time":"2026-01-19T16:56:32.754+05:30"}
+{"token":"204","id":null,"type":"state","data":{"started":"2026-01-19T16:53:00.000+05:30","ended":"2026-01-19T16:58:00.000+05:30","frozen":"2026-01-19T16:56:00.000+05:30","thawed":null,"finalized":null,"end_of_updates":null},"time":"2026-01-19T17:00:00.608+05:30"}
+{"token":"205","id":null,"type":"state","data":{"started":"2026-01-19T16:53:00.000+05:30","ended":"2026-01-19T16:58:00.000+05:30","frozen":"2026-01-19T16:56:00.000+05:30","thawed":null,"finalized":"2026-01-19T17:00:39.372+05:30","end_of_updates":null},"time":"2026-01-19T17:01:09.176+05:30"}
+{"token":"206","id":"group-winner-3","type":"awards","data":{"id":"group-winner-3","citation":"Winner(s) of group Participants","team_ids":["4"]},"time":"2026-01-19T17:01:09.278+05:30"}
+{"token":"207","id":"first-to-solve-1","type":"awards","data":{"id":"first-to-solve-1","citation":"First to solve problem A","team_ids":["4"]},"time":"2026-01-19T17:01:09.288+05:30"}
+{"token":"208","id":"first-to-solve-2","type":"awards","data":{"id":"first-to-solve-2","citation":"First to solve problem B","team_ids":["4"]},"time":"2026-01-19T17:01:09.301+05:30"}
+{"token":"209","id":"winner","type":"awards","data":{"id":"winner","citation":"Contest winner","team_ids":["4"]},"time":"2026-01-19T17:01:09.306+05:30"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
