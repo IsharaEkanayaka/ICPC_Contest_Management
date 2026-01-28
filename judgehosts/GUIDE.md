@@ -53,13 +53,7 @@ After the VM reboots, cgroupv1 will be enabled.
 
 The judgedaemons will run in Docker containers. Install Docker and Docker Compose inside the Ubuntu VM.
 
-1.  **Install Docker:** Follow the official instructions to [install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/).
-
-2.  **Install Docker Compose:**
-    ```bash
-    sudo apt-get update
-    sudo apt-get install docker-compose -y
-    ```
+1.  **Install Docker:** Follow the official instructions to [install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/). This will also install the `docker-compose-plugin`.
 
 ### 5. Deploy the Judgehosts
 
@@ -73,12 +67,12 @@ The judgedaemons will run in Docker containers. Install Docker and Docker Compos
 
 3.  **Start the judgedaemons:**
     ```bash
-    docker-compose up -d
+    docker compose up -d
     ```
 
     This will start the judgedaemons, which will then connect to the DOMjudge server. You can check the logs to ensure they are running correctly:
     ```bash
-    docker-compose logs -f
+    docker compose logs -f
     ```
 
 ### 6. Create Judgehost User in DOMjudge
