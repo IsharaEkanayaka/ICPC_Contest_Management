@@ -24,13 +24,8 @@ This repository contains a complete setup for managing an ICPC-style programming
     -   Navigate to the `icpc_tools/cds/` directory.
     -   **Important:** Before running, update `cdsConfig.xml` with the correct contest number and `accounts.yaml` with your desired credentials (you can use `accounts.yaml.template` as a guide).
     -   Run the CDS with the following command:
-        ```powershell
-        docker run --name cds --rm -it ^
-        -p 8080:8080 -p 8443:8443 ^
-        -v %cd%\cdsConfig.xml:/opt/wlp/usr/servers/cds/config/cdsConfig.xml ^
-        -v %cd%\accounts.yaml:/opt/wlp/usr/servers/cds/config/accounts.yaml ^
-        -v %cd%\data:/data ^
-        ghcr.io/icpctools/cds:2.7.1346
+        ```bash
+        docker run --name cds --rm -it -p 8080:8080 -p 8443:8443 -v ./cdsConfig.xml:/opt/wlp/usr/servers/cds/config/cdsConfig.xml -v ./accounts.yaml:/opt/wlp/usr/servers/cds/config/accounts.yaml -v ./data:/data ghcr.io/icpctools/cds:2.7.1346
         ```
 
 3.  **Set Up Judgehosts:**
