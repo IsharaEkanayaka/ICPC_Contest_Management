@@ -8,13 +8,12 @@ domjudge/*.tar
 domjudge/*.tar.gz
 domjudge/*.sql
 
-# CDS generated data
-cds/data/
+# ICPC Tools
+icpc_tools/cds/data/
+!icpc_tools/cds/data/.gitkeep
+icpc_tools/cds/accounts.yaml
+icpc_tools/presentations-2.6.1331/users.xml
+icpc_tools/**/logs/
 
-# Accounts file
-cds/accounts.yaml
-
-# Presentation users file
-presentations-2.6.1331/users.xml
-
+# Temporary folders
 linkedin/
